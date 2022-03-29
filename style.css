@@ -6,6 +6,10 @@ body {
   font-family: Arial, san-serif;
 }
 
+.page-pad {
+  padding: 0 10vh;
+}
+
 .header,
 .footer {
   display: flex;
@@ -16,8 +20,12 @@ body {
   justify-content: space-between;
 }
 
-.header-logo, .header-links {
-  padding: 0px 48px;
+/* .header-logo, .header-links { */
+/*   padding: 0px 48px; */
+/* } */
+
+.header-logo, .hero-header {
+  color: #f9faf8;
 }
 
 .header-links {
@@ -37,10 +45,23 @@ body {
 
 .hero {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   /* padding-bottom: 48px; */
 }
+
+.hero-image {
+  width: 300px;
+  height: auto;
+}
+
+.hero-box {
+  max-width: 30%;
+}
+
+/* .hero-image, .hero-box { */
+/*   flex: auto; */
+/* } */
 
 .info {
   display: flex;
