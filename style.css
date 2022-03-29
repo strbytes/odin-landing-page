@@ -7,7 +7,7 @@ body {
 }
 
 .page-pad {
-  padding: 0 10vh;
+  padding: 0 10vw;
 }
 
 .header,
@@ -24,12 +24,15 @@ body {
 /*   padding: 0px 48px; */
 /* } */
 
-.header-logo, .hero-header {
+.header-logo {
   color: #f9faf8;
+  font-size: 24px;
 }
 
 .header-links {
   display: flex;
+  gap: 10px;
+  font-size: 18px;
 }
 
 .content {
