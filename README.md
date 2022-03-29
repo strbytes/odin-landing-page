@@ -1,2 +1,2 @@
 # odin-landing-page
-Second project for The Odin Project
+My second project for The Odin Project. So far has the base structure set up.
