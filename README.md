@@ -1,4 +1,5 @@
 # odin-landing-page
+
 My second project for The Odin Project. A simple vertical landing page demonstrating the use of flexbox.
 
 Photos from Pexels.com.
