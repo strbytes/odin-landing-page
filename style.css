@@ -80,16 +80,16 @@ body {
   margin: 0;
 }
 
-.hero-button, .call-box {
+.hero-button, .call-box, .call-button {
   background-color: #3882f6;
 }
 
-.hero-button {
+.hero-button, .call-button {
   padding: .5em 1.5em;
   border-radius: 5px;
 }
 
-.hero-button a {
+.hero-button a, .call-button a {
   color: #f9faf8;
   font-weight: 600;
 }
@@ -154,11 +154,47 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 10vh;
+}
+
+.call-box {
+  width: 66vw;
+  height: 15vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 5px;
+  color: #f9faf8;
+}
+
+.call-text, .call-button {
+  margin: 2vh 10vh;
+}
+
+.call-text {
+  flex: 3;
+}
+
+.call-text h4 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.call-text p {
+  margin: 0;
+}
+
+.call-button {
+  text-align: center;
+  flex: 1;
+  border: .2em solid #e5e7eb;
 }
 
 .footer {
   justify-content: center;
   height: 50px;
+  font-size: 18px;
+  padding: 3vh;
 }
 
 .header,
