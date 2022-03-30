@@ -21,10 +21,6 @@ body {
   justify-content: space-between;
 }
 
-/* .header-logo, .header-links { */
-/*   padding: 0px 48px; */
-/* } */
-
 .header-logo {
   font-size: 24px;
 }
@@ -35,7 +31,7 @@ body {
 
 .header-links {
   display: flex;
-  gap: 10px;
+  gap: 24px;
   font-size: 18px;
 }
 
@@ -97,7 +93,6 @@ body {
 .info {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
   align-items: stretch;
   color: #1f2937;
   text-align: center;
@@ -113,6 +108,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  margin: 0 10vw;
 }
 
 .block img {
