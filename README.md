@@ -1,5 +1,5 @@
 # odin-landing-page
-My second project for The Odin Project. So far has the base structure set up.
+My second project for The Odin Project. A simple vertical landing page demonstrating usage of flexbox.
 
 Photos from Pexels.com.
 https://www.pexels.com/photo/grayscale-photo-of-concrete-bridge-11619919/
