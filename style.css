@@ -66,16 +66,12 @@ body {
 
 .hero-box, .hero-image {
   flex: auto;
+  width: 33vw;
 }
 
 .hero-text {
   font-size: 18px;
   margin: 0;
-}
-
-.hero-image {
-  width: auto;
-  height: 33vh;
 }
 
 .hero-header {
