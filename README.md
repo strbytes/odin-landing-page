@@ -2,6 +2,8 @@
 
 My second project for The Odin Project. A simple vertical landing page demonstrating the use of flexbox. [Project instructions](https://www.theodinproject.com/lessons/foundations-landing-page) [Project goal](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png)
 
+Site is live here: https://strbytes.github.io/odin-landing-page/
+
 Photos from Pexels.com.
 - https://www.pexels.com/photo/grayscale-photo-of-concrete-bridge-11619919/
 - https://www.pexels.com/photo/red-flower-on-clear-glass-vase-7291707/
